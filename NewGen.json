@@ -1,8 +1,9 @@
 [
   {
-    "MODULE": "PiloteNvidia",
-    "VERSION": "572.42",
-    "DIRECT_LINK": [
+    "name": "PiloteNvidia",
+    "version": "572.42",
+    "link": [
+      "https://gofile.io/d/zxMo9p",
       "https://gofile.io/d/zxMo9p"
     ]
   }
