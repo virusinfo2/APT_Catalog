@@ -3,11 +3,17 @@
     "name": "PiloteNvidia",
     "version": "572.42",
     "link": [
-      "https://gofile.io/d/zxMo9p",
       "https://gofile.io/d/zxMo9p"
     ],
     "Dependency": [
       "Steam"
+    ]
+  },
+  {
+    "name": "aria2",
+    "version": "1.37.0",
+    "link": [
+      "https://gofile.io/d/Msh1iC"
     ]
   }
 ]
